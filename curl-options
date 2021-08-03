@@ -1,0 +1,10 @@
+ -i, --include
+    Include protocol response in header
+ -V, --version      
+    Show version number and quit
+  -G, --get 
+     Put the post data in the URL and use GET, grabs things
+  -E, --cert <certificate[:password]> 
+    client certificate file and password, password submission
+   -K, --config <file> 
+      Read config from a file
